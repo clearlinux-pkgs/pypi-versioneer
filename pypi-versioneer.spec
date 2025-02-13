@@ -7,7 +7,7 @@
 #
 Name     : pypi-versioneer
 Version  : 0.29
-Release  : 7
+Release  : 8
 URL      : https://files.pythonhosted.org/packages/32/d7/854e45d2b03e1a8ee2aa6429dd396d002ce71e5d88b77551b2fb249cb382/versioneer-0.29.tar.gz
 Source0  : https://files.pythonhosted.org/packages/32/d7/854e45d2b03e1a8ee2aa6429dd396d002ce71e5d88b77551b2fb249cb382/versioneer-0.29.tar.gz
 Summary  : Easy VCS-based management of project version strings
